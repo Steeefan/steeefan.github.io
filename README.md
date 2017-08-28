@@ -14,5 +14,5 @@ This will be the main portfolio page for Stefan Heinz. I am currently located in
 <b>Project 3: Machine Learning</b><br />
 <a href="https://blog.nycdatascience.com/student-works/renthop-kaggle-competition-team-data-jedys/" target="_blank">https://blog.nycdatascience.com/student-works/renthop-kaggle-competition-team-data-jedys/</a>
 <br />
-<b>Project 4: Capstone</br>
+<b>Project 4: Capstone</b><br />
 <a href="https://blog.nycdatascience.com/student-works/capstone/metarecommendr-recommendation-system-video-games-movies-tv-shows/" target="_blank">Metarecommendr: A recommendation system for video games, movies and TV shows</a>
